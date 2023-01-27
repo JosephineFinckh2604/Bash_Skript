@@ -4,4 +4,4 @@
 
 Ich hoffe, dass ich all die Git-Befehle nicht wieder vergessen werde :-(
 
-Aber ich bin zuversichtlich, dass mir die Links helfen werden :-)
+Aber ich bin zuversichtlich, dass mir die Kurzreferenzen helfen werden :-)
